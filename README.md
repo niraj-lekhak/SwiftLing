@@ -16,16 +16,18 @@ The project aims to provide an efficient and user-friendly solution for language
 
 # Usage
 1.Open the web app by visiting the hosted URL or running it locally.
+
 2.To translate real-time text:
-    Enter the text you want to translate in the input field.
-    Select the source and target languages from the dropdown menus.
-    SwiftLing will automatically translate the text in real-time.
+-Enter the text you want to translate in the input field.
+-Select the source and target languages from the dropdown menus.
+-SwiftLing will automatically translate the text in real-time.
     
-3.To translate a document:
-    Click on the "Upload Document" button.
-    Choose a document file (supported formats) for translation.
-    Select the source and target languages.
-    SwiftLing will translate the document.
+3.To translate a document: 
+-Click on the "Upload Document" button.
+-Choose a document file (supported formats) for translation.
+-Select the source and target languages.
+-SwiftLing will translate the document.
+
 4.Click the "Download" button to download the translated text in document format.
 
 # Outcomes
