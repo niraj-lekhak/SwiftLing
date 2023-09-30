@@ -5,9 +5,13 @@ The project aims to provide an efficient and user-friendly solution for language
 
 # Features
 1.Real-time Translation: SwiftLing offers live translation of text as users type, making it easy to understand and communicate in different languages.
+
 2.Language Selection: Users can choose the source and target languages for translation, making it a versatile tool for various language pairs.
+
 3.User-Friendly Interface: The web app has an intuitive and user-friendly interface that ensures a smooth translation experience.
+
 4.Document Translation: Users can upload documents for translation, enhancing usability and catering to the need for batch translations.
+
 5.Download Translated Documents: SwiftLing allows users to download translated text in the form of a document.
 
 # Usage
